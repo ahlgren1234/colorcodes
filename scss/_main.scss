@@ -1,0 +1,8 @@
+// Reset Border Box
+html { box-sizing: border-box; }
+
+*, *:before, *:after { box-sizing: inherit; }
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}

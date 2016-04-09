@@ -12,3 +12,925 @@ html {
 p {
   font-family: 'Open Sans', sans-serif;
 }
+
+.colorbox {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  border: 1px solid #000000;
+}
+
+.Red {
+  background: #FF0000;
+  color: #FFFFFF;
+}
+
+.Cyan {
+  background: #00FFFF;
+  color: #000000;
+}
+
+.Blue {
+  background: #0000FF;
+  color: #FFFFFF;
+}
+
+.DarkBlue {
+  background: #0000A0;
+  color: #FFFFFF;
+}
+
+.LightBlue {
+  background: #ADD8E6;
+  color: #000000;
+}
+
+.Purple {
+  background: #800080;
+  color: #FFFFFF;
+}
+
+.Yellow {
+  background: #FFFF00;
+  color: #000000;
+}
+
+.Lime {
+  background: #00FF00;
+  color: #000000;
+}
+
+.Magenta {
+  background: #FF00FF;
+  color: #FFFFFF;
+}
+
+.White {
+  background: #FFFFFF;
+  color: #000000;
+}
+
+.Silver {
+  background: #C0C0C0;
+  color: #000000;
+}
+
+.Grey {
+  background: #808080;
+  color: #FFFFFF;
+}
+
+.Black {
+  background: #000000;
+  color: #FFFFFF;
+}
+
+.Orange {
+  background: #FFA500;
+  color: #FFFFFF;
+}
+
+.Brown {
+  background: #A52A2A;
+  color: #FFFFFF;
+}
+
+.Maroon {
+  background: #800000;
+  color: #FFFFFF;
+}
+
+.Green {
+  background: #008000;
+  color: #FFFFFF;
+}
+
+.Olive {
+  background: #808000;
+  color: #FFFFFF;
+}
+
+.Night {
+  background: #0C090A;
+  color: #FFFFFF;
+}
+
+.GunMetal {
+  background: #2C3539;
+  color: #FFFFFF;
+}
+
+.MidNight {
+  background: #2B1B17;
+  color: #FFFFFF;
+}
+
+.Charcoal {
+  background: #34282C;
+  color: #FFFFFF;
+}
+
+.DarkSlateGrey {
+  background: #25383C;
+  color: #FFFFFF;
+}
+
+.Oil {
+  background: #3B3131;
+  color: #FFFFFF;
+}
+
+.BlackCat {
+  background: #413839;
+  color: #FFFFFF;
+}
+
+.Iridium {
+  background: #3D3C3A;
+  color: #FFFFFF;
+}
+
+.BlackEel {
+  background: #463E3F;
+  color: #FFFFFF;
+}
+
+.BlackCow {
+  background: #4C4646;
+  color: #FFFFFF;
+}
+
+.GrayWolf {
+  background: #504A4B;
+  color: #FFFFFF;
+}
+
+.VampireGray {
+  background: #565051;
+  color: #FFFFFF;
+}
+
+.GrayDolphin {
+  background: #5C5858;
+  color: #FFFFFF;
+}
+
+.CarbonGray {
+  background: #625D5D;
+  color: #FFFFFF;
+}
+
+.AshGray {
+  background: #666362;
+  color: #FFFFFF;
+}
+
+.CloudyGray {
+  background: #6D6968;
+  color: #FFFFFF;
+}
+
+.SmokeyGray {
+  background: #726E6D;
+  color: #FFFFFF;
+}
+
+.Gray {
+  background: #736F6E;
+  color: #FFFFFF;
+}
+
+.Granite {
+  background: #837E7C;
+  color: #FFFFFF;
+}
+
+.BattleshipGray {
+  background: #848482;
+  color: #FFFFFF;
+}
+
+.GrayCloud {
+  background: #B6B6B4;
+  color: #FFFFFF;
+}
+
+.GrayGoose {
+  background: #D1D0CE;
+  color: #000000;
+}
+
+.Platinum {
+  background: #E5E4E2;
+  color: #000000;
+}
+
+.MetallicSilver {
+  background: #BCC6CC;
+  color: #000000;
+}
+
+.BlueGray {
+  background: #98AFC7;
+  color: #FFFFFF;
+}
+
+.LightSlateGray {
+  background: #6D7B8D;
+  color: #FFFFFF;
+}
+
+.SlateGray {
+  background: #657383;
+  color: #FFFFFF;
+}
+
+.JetGray {
+  background: #616D7E;
+  color: #FFFFFF;
+}
+
+.MistBlue {
+  background: #646D7E;
+  color: #FFFFFF;
+}
+
+.MarbleBlue {
+  background: #566D7E;
+  color: #FFFFFF;
+}
+
+.SlateBlue {
+  background: #357EC7;
+  color: #FFFFFF;
+}
+
+.SteelBlue {
+  background: #4863A0;
+  color: #FFFFFF;
+}
+
+.BlueJay {
+  background: #2B547E;
+  color: #FFFFFF;
+}
+
+.DarkSlateBlue {
+  background: #2B3856;
+  color: #FFFFFF;
+}
+
+.MidnightBlue {
+  background: #151B54;
+  color: #FFFFFF;
+}
+
+.NavyBlue {
+  background: #000080;
+  color: #FFFFFF;
+}
+
+.BlueWhale {
+  background: #342D7E;
+  color: #FFFFFF;
+}
+
+.LapisBlue {
+  background: #15317E;
+  color: #FFFFFF;
+}
+
+.CornflowerBlue {
+  background: #151B8D;
+  color: #FFFFFF;
+}
+
+.EarthBlue {
+  background: #0000A0;
+  color: #FFFFFF;
+}
+
+.CobaltBlue {
+  background: #0020C2;
+  color: #FFFFFF;
+}
+
+.BlueberryBlue {
+  background: #0041C2;
+  color: #FFFFFF;
+}
+
+.SapphireBlue {
+  background: #2554C7;
+  color: #FFFFFF;
+}
+
+.BlueEyes {
+  background: #1569C7;
+  color: #FFFFFF;
+}
+
+.RoyalBlue {
+  background: #2B60DE;
+  color: #FFFFFF;
+}
+
+.BlueOrchid {
+  background: #1F45FC;
+  color: #FFFFFF;
+}
+
+.BlueLotus {
+  background: #6960EC;
+  color: #FFFFFF;
+}
+
+.LightSlateBlue {
+  background: #736AFF;
+  color: #FFFFFF;
+}
+
+.SlateBlue {
+  background: #357EC7;
+  color: #FFFFFF;
+}
+
+.GlacialBlueIce {
+  background: #368BC1;
+  color: #FFFFFF;
+}
+
+.SilkBlue {
+  background: #488AC7;
+  color: #FFFFFF;
+}
+
+.BlueIvy {
+  background: #3090C7;
+  color: #FFFFFF;
+}
+
+.BlueKoi {
+  background: #659EC7;
+  color: #FFFFFF;
+}
+
+.ColumbiaBlue {
+  background: #87AFC7;
+  color: #FFFFFF;
+}
+
+.BabyBlue {
+  background: #95B9C7;
+  color: #FFFFFF;
+}
+
+.LightSteelBlue {
+  background: #728FCE;
+  color: #FFFFFF;
+}
+
+.OceanBlue {
+  background: #2B65EC;
+  color: #FFFFFF;
+}
+
+.BlueRibbon {
+  background: #306EFF;
+  color: #FFFFFF;
+}
+
+.BlueDress {
+  background: #157DEC;
+  color: #FFFFFF;
+}
+
+.DodgerBlue {
+  background: #1589FF;
+  color: #FFFFFF;
+}
+
+.CornflowerBlue2 {
+  background: #6495ED;
+  color: #FFFFFF;
+}
+
+.SkyBlue {
+  background: #6698FF;
+  color: #FFFFFF;
+}
+
+.ButterflyBlue {
+  background: #38ACEC;
+  color: #FFFFFF;
+}
+
+.Iceberg {
+  background: #56A5EC;
+  color: #FFFFFF;
+}
+
+.CrystalBlue {
+  background: #5CB3FF;
+  color: #FFFFFF;
+}
+
+.DeepSkyBlue {
+  background: #3BB9FF;
+  color: #FFFFFF;
+}
+
+.DenimBlue {
+  background: #79BAEC;
+  color: #FFFFFF;
+}
+
+.LightSkyBlue {
+  background: #82CAFA;
+  color: #FFFFFF;
+}
+
+.DaySkyBlue {
+  background: #82CAFF;
+  color: #FFFFFF;
+}
+
+.JeansBlue {
+  background: #A0CFEC;
+  color: #FFFFFF;
+}
+
+.BlueAngel {
+  background: #B7CEEC;
+  color: #FFFFFF;
+}
+
+.PastelBlue {
+  background: #B4CFEC;
+  color: #000000;
+}
+
+.SeaBlue {
+  background: #C2DFFF;
+  color: #000000;
+}
+
+.PowderBlue {
+  background: #C6DEFF;
+  color: #000000;
+}
+
+.CoralBlue {
+  background: #AFDCEC;
+  color: #000000;
+}
+
+.LightBlue2 {
+  background: #ADD8E6;
+  color: #000000;
+}
+
+.RobinEggBlue {
+  background: #BDEDFF;
+  color: #000000;
+}
+
+.PaleBlueLily {
+  background: #CFECEC;
+  color: #000000;
+}
+
+.LightCyan {
+  background: #E0FFFF;
+  color: #000000;
+}
+
+.Water {
+  background: #EBF4FA;
+  color: #000000;
+}
+
+.AliceBlue {
+  background: #F0F8FF;
+  color: #000000;
+}
+
+.Azure {
+  background: #F0FFFF;
+  color: #000000;
+}
+
+.LightSlate {
+  background: #CCFFFF;
+  color: #000000;
+}
+
+.LightAquamarine {
+  background: #93FFE8;
+  color: #000000;
+}
+
+.ElectricBlue {
+  background: #9AFEFF;
+  color: #000000;
+}
+
+.Aquamarine {
+  background: #7FFFD4;
+  color: #000000;
+}
+
+.TronBlue {
+  background: #7DFDFE;
+  color: #000000;
+}
+
+.BlueZircon {
+  background: #57FEFF;
+  color: #000000;
+}
+
+.BlueLagoon {
+  background: #8EEBEC;
+  color: #000000;
+}
+
+.Celeste {
+  background: #50EBEC;
+  color: #000000;
+}
+
+.BlueDiamond {
+  background: #4EE2EC;
+  color: #000000;
+}
+
+.TiffanyBlue {
+  background: #81D8D0;
+  color: #000000;
+}
+
+.CyanOpaque {
+  background: #92C7C7;
+  color: #000000;
+}
+
+.BlueHosta {
+  background: #77BFC7;
+  color: #000000;
+}
+
+.NorthernLightsBlue {
+  background: #78C7C7;
+  color: #000000;
+}
+
+.MediumTurquoise {
+  background: #48CCCD;
+  color: #000000;
+}
+
+.Turquoise {
+  background: #43C6DB;
+  color: #000000;
+}
+
+.Jellyfish {
+  background: #46C7C7;
+  color: #000000;
+}
+
+.MacawBlueGreen {
+  background: #43BFC7;
+  color: #000000;
+}
+
+.LightSeaGreen {
+  background: #3EA99F;
+  color: #FFFFFF;
+}
+
+.DarkTurquoise {
+  background: #3B9C9C;
+  color: #FFFFFF;
+}
+
+.SeaTurtleGreen {
+  background: #438D80;
+  color: #FFFFFF;
+}
+
+.MediumAquamarine {
+  background: #348781;
+  color: #FFFFFF;
+}
+
+.GreenishBlue {
+  background: #307D7E;
+  color: #FFFFFF;
+}
+
+.GrayishTurquoise {
+  background: #5E7D7E;
+  color: #FFFFFF;
+}
+
+.BeetleGreen {
+  background: #4C787E;
+  color: #FFFFFF;
+}
+
+.Teal {
+  background: #008080;
+  color: #FFFFFF;
+}
+
+.SeaGreen {
+  background: #4E8975;
+  color: #FFFFFF;
+}
+
+.CamouflageGreen {
+  background: #78866B;
+  color: #FFFFFF;
+}
+
+.SageGreen {
+  background: #848B79;
+  color: #FFFFFF;
+}
+
+.HazelGreen {
+  background: #617C58;
+  color: #FFFFFF;
+}
+
+.VenomGreen {
+  background: #728C00;
+  color: #FFFFFF;
+}
+
+.FernGreen {
+  background: #667C26;
+  color: #FFFFFF;
+}
+
+.DarkForestGreen {
+  background: #254117;
+  color: #FFFFFF;
+}
+
+.MediumSeaGreen {
+  background: #306754;
+  color: #FFFFFF;
+}
+
+.MediumForestGreen {
+  background: #347235;
+  color: #FFFFFF;
+}
+
+.SeaweedGreen {
+  background: #437C17;
+  color: #FFFFFF;
+}
+
+.PineGreen {
+  background: #387C44;
+  color: #FFFFFF;
+}
+
+.JungleGreen {
+  background: #347C2C;
+  color: #FFFFFF;
+}
+
+.ShamrockGreen {
+  background: #347C17;
+  color: #FFFFFF;
+}
+
+.MediumSpringGreen {
+  background: #348017;
+  color: #FFFFFF;
+}
+
+.ForestGreen {
+  background: #4E9258;
+  color: #FFFFFF;
+}
+
+.GreenOnion {
+  background: #6AA121;
+  color: #FFFFFF;
+}
+
+.SpringGreen {
+  background: #4AA02C;
+  color: #FFFFFF;
+}
+
+.LimeGreen {
+  background: #41A317;
+  color: #FFFFFF;
+}
+
+.CloverGreen {
+  background: #3EA055;
+  color: #FFFFFF;
+}
+
+.GreenSnake {
+  background: #6CBB3C;
+  color: #FFFFFF;
+}
+
+.AlienGreen {
+  background: #6CC417;
+  color: #FFFFFF;
+}
+
+.GreenApple {
+  background: #4CC417;
+  color: #FFFFFF;
+}
+
+.YellowGreen {
+  background: #52D017;
+  color: #FFFFFF;
+}
+
+.KellyGreen {
+  background: #4CC552;
+  color: #FFFFFF;
+}
+
+.ZombieGreen {
+  background: #54C571;
+  color: #FFFFFF;
+}
+
+.FrogGreen {
+  background: #99C68E;
+  color: #000000;
+}
+
+.GreenPeas {
+  background: #89C35C;
+  color: #000000;
+}
+
+.DollarBillGreen {
+  background: #85BB65;
+  color: #000000;
+}
+
+.DarkSeaGreen {
+  background: #8BB381;
+  color: #000000;
+}
+
+.IguanaGreen {
+  background: #9CB071;
+  color: #000000;
+}
+
+.AvocadoGreen {
+  background: #B2C248;
+  color: #000000;
+}
+
+.PistachioGreen {
+  background: #9DC209;
+  color: #000000;
+}
+
+.SaladGreen {
+  background: #A1C935;
+  color: #000000;
+}
+
+.HummingbirdGreen {
+  background: #7FE817;
+  color: #000000;
+}
+
+.NebulaGreen {
+  background: #59E817;
+  color: #000000;
+}
+
+.StoplightGoGreen {
+  background: #57E964;
+  color: #000000;
+}
+
+.AlgaeGreen {
+  background: #64E986;
+  color: #000000;
+}
+
+.JadeGreen {
+  background: #5EFB6E;
+  color: #000000;
+}
+
+.Green2 {
+  background: #00FF00;
+  color: #000000;
+}
+
+.EmeraldGreen {
+  background: #5FFB17;
+  color: #000000;
+}
+
+.LawnGreen {
+  background: #87F717;
+  color: #000000;
+}
+
+.Chartreuse {
+  background: #8AFB17;
+  color: #000000;
+}
+
+.DragonGreen {
+  background: #6AFB92;
+  color: #000000;
+}
+
+.MintGreen {
+  background: #98FF98;
+  color: #000000;
+}
+
+.GreenThumb {
+  background: #B5EAAA;
+  color: #000000;
+}
+
+.LightJade {
+  background: #C3FDB8;
+  color: #000000;
+}
+
+.TeaGreen {
+  background: #CCFB5D;
+  color: #000000;
+}
+
+.GreenYellow {
+  background: #B1FB17;
+  color: #000000;
+}
+
+.SlimeGreen {
+  background: #BCE954;
+  color: #000000;
+}
+
+.Goldenrod {
+  background: #EDDA74;
+  color: #000000;
+}
+
+.HarvestGold {
+  background: #EDE275;
+  color: #000000;
+}
+
+.SunYellow {
+  background: #FFE87C;
+  color: #000000;
+}
+
+.CornYellow {
+  background: #FFF380;
+  color: #000000;
+}
+
+.Parchment {
+  background: #FFFFC2;
+  color: #000000;
+}
+
+.Cream {
+  background: #FFFFCC;
+  color: #000000;
+}
+
+.LemonChiffon {
+  background: #FFF8C6;
+  color: #000000;
+}
+
+.Cornsilk {
+  background: #FFF8DC;
+  color: #000000;
+}
+
+.Beige {
+  background: #F5F5DC;
+  color: #000000;
+}

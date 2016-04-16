@@ -20,6 +20,10 @@ p {
   border: 1px solid #000000;
 }
 
+.fa {
+  color: #FF0000;
+}
+
 .Red {
   background: #FF0000;
   color: #FFFFFF;
